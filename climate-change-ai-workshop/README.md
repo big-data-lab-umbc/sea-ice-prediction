@@ -10,6 +10,7 @@ The workshop paper is publicly accessible [here](https://www.climatechange.ai/pa
 
 ## Code
 In this repository, we have 2 folders:
-1. Data Preprocessing 
-2. Models for sea-ice prediction 
+1. Data
+2. Data Preprocessing 
+3. Models for sea-ice prediction 
 
