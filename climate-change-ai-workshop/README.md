@@ -9,7 +9,7 @@ and recently proposed deep learning models. This will substantially improve our 
 The workshop paper is publicly accessible [here](https://www.climatechange.ai/papers/icml2021/50/paper.pdf).
 
 ## Code
-In this repository, we have 2 folders:
+In this repository, we have following folders:
 1. Data
 2. Data Preprocessing 
 3. Models for sea-ice prediction 
