@@ -1,6 +1,3 @@
-#Code Paths:
-#/umbc/xfs1/cybertrn/sea-ice-prediction/data/nc_data_merge.py
-
 import sys
 import csv
 import numpy as np
@@ -19,8 +16,8 @@ from tempfile import TemporaryFile
 import warnings
 
 
-path='/umbc/xfs1/cybertrn/sea-ice-prediction/data/'
-save_path  = '/umbc/xfs1/cybertrn/sea-ice-prediction/data/merged_data'
+path='/.../sea-ice-prediction/data/'
+save_path  = '/.../sea-ice-prediction/data/merged_data'
 
 #### read data ####
 file1=path+'ERA5_daily_surface_pressure_25N_1979_2019.nc'
