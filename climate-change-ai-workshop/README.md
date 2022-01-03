@@ -9,9 +9,7 @@ and recently proposed deep learning models. This will substantially improve our 
 The workshop paper is publicly accessible [here](https://www.climatechange.ai/papers/icml2021/50/paper.pdf).
 
 ## Code
-In this repository, we have shared 2 notebooks for data preprocessing and 3 notebooks for our models mentioned in the paper:
-1. Preprocessing Daily Data (preprocess_daily.ipynb)
-2. Preprocessing Monthly Data (preprocess_monthly.ipynb)
-3. Daily LSTM or dLSTM (dLSTM.ipynb)
-4. Monthly LSTM or mLSTM (mLSTM.ipynb)
-5. Attention-based Ensemble LSTM or EA-LSTM (EA-LSTM.ipynb)
+In this repository, we have 2 folders:
+1. Data Preprocessing 
+2. Models for sea-ice prediction 
+
