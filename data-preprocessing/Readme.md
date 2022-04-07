@@ -23,7 +23,7 @@ export PYTHONPATH="/.../lib/python3.7/site-packages:$PYTHONPATH"
 
 **To download 25km sea_ice data using binaries:**
 1. run nsidc-download_NSIDC-0081.001_2021_data.py. You would need to update ‘end_time’ in this file
-2. run update_sea_ice_from_raw_data.py under the folder.
+2. run update_sea_ice_from_raw_data.py.
 This should give you the up-to-date sea ice data in 25 km resolution.
 
 **To generate combined dataset:**
