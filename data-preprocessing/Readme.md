@@ -17,7 +17,7 @@ The following code files provide a template to download and preprocess the data 
 export PYTHONPATH="/.../lib/python3.7/site-packages:$PYTHONPATH"
 
 **To download daily/monthly sea ice values:**
-1. Go the NSIDC dataset repository through this [link] (https://nsidc.org/data/G02135/versions/3).
+1. Go the NSIDC dataset repository through this [link](https://nsidc.org/data/G02135/versions/3).
 2. Download N_seaice_extent_daily_v3.0.csv and remove rows from the end that lie outside the range of dates under consideration.
 **Note:** Duplicate Feb 19 and Feb 22 to make up for Feb 20-21, 2021
 
