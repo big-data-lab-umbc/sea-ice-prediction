@@ -11,3 +11,6 @@ The paper has been accepted in the proceedings of [IEEE BDCAT 2022](https://bdca
 In this repository, we have following folders:
 1. Data Preprocessing 
 2. Models 
+
+## Dataset
+[TBD] The dataset will be publicly available to download from AWS S3 instance.
