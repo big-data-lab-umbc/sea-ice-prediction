@@ -13,4 +13,5 @@ In this repository, we have following folders:
 2. Models 
 
 ## Dataset
-[TBD] The dataset will be publicly available to download from AWS S3 instance.
+The dataset is publicly available to download from AWS S3 instance: https://sahara-sic.s3.us-west-2.amazonaws.com/mt_icenet_data/
+
