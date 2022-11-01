@@ -9,5 +9,5 @@ The following code files provide a template to download and preprocess the data 
 
 ## Preprocessing combined Spatiotemporal Dataset
 
-Step 1: Create a rolling window dataset for monthly data. [Code](https://github.com/big-data-lab-umbc/big-data-reu/tree/main/2021-projects/team-1/preprocessing/convlstm)
-Step 2: Create a rolling window dataset for bi-monthly data. [Code](https://github.com/big-data-lab-umbc/sea-ice-prediction/tree/main/mt-icenet/data-preprocessing)
+- Step 1: Create a rolling window dataset for monthly data. [Code](https://github.com/big-data-lab-umbc/big-data-reu/tree/main/2021-projects/team-1/preprocessing/convlstm)
+- Step 2: Create a rolling window dataset for bi-monthly data. [Code](https://github.com/big-data-lab-umbc/sea-ice-prediction/tree/main/mt-icenet/data-preprocessing)
