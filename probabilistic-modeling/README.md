@@ -1,5 +1,5 @@
 
-# MT-IceNet - A Spatial and Multi-Temporal Deep Learning Model for Arctic Sea Ice Forecasting
+# Benchmarking Probabilistic Machine Learning Models for Arctic Sea Ice
 
 ## Abstract
 The Arctic is a region with unique climate features, motivating new AI methodologies to study it. Unfortunately, Arctic sea ice has seen a continuous decline since 1979. This not only poses a significant threat to Arctic wildlife and surrounding coastal communities but is also adversely affecting the global climate patterns. To study the potential of AI in tackling climate change, we analyze the performance of four probabilistic machine learning methods in forecasting sea-ice extent for lead times of up to 6 months, further comparing them with traditional machine learning methods. Our comparative analysis shows that Gaussian Process Regression is a good fit to predict sea-ice extent for longer lead times with lowest RMSE error.
