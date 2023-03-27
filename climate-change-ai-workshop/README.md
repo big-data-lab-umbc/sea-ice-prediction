@@ -14,3 +14,15 @@ In this repository, we have following folders:
 2. Data Preprocessing 
 3. Models for sea-ice prediction 
 
+## Citation
+If you use this code for your research, please cite our [paper](https://www.climatechange.ai/papers/icml2021/50/paper.pdf):
+
+```
+@article{ali2021sea,
+  title={Sea Ice Forecasting using Attention-based Ensemble LSTM. arXiv e-prints, page},
+  author={Ali, Sahara and Huang, Yiyi and Huang, Xin and Wang, Jianwu},
+  journal={arXiv preprint arXiv:2108.00853},
+  year={2021}
+}
+```
+
