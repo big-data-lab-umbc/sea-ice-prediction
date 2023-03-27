@@ -15,3 +15,16 @@ In this repository, we have following folders:
 ## Dataset
 The dataset is publicly available to download from AWS S3 instance: https://sahara-sic.s3.us-west-2.amazonaws.com/mt_icenet_data/
 
+## Citation
+If you use this code for your research, please cite our [paper](https://drive.google.com/file/d/1JNtWw6vm9430LXan6IfNCiMJO-vU-SjH/view?usp=share_link):
+
+```
+@inproceedings{ali2022mt,
+  title={MT-IceNet-A Spatial and Multi-Temporal Deep Learning Model for Arctic Sea Ice Forecasting},
+  author={Ali, Sahara and Wang, Jianwu},
+  booktitle={2022 IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT)},
+  pages={1--10},
+  year={2022},
+  organization={IEEE}
+}
+```
