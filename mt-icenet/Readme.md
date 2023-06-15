@@ -13,7 +13,7 @@ In this repository, we have following folders:
 2. Models 
 
 ## Dataset
-The dataset is publicly available to download from AWS S3 instance: https://sahara-sic.s3.us-west-2.amazonaws.com/mt_icenet_data/
+The dataset is publicly available to download from AWS S3 instance: https://sahara-sic.s3.us-west-2.amazonaws.com/mt_icenet_data
 
 ## Citation
 If you use this code for your research, please cite our [paper](https://drive.google.com/file/d/1JNtWw6vm9430LXan6IfNCiMJO-vU-SjH/view?usp=share_link):
