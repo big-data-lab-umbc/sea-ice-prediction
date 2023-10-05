@@ -10,8 +10,8 @@ The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre
 This repository is organized by:
 | Folder | Description |
 | - | - |
-| multivariate | Contains multivariate data, data processing, and models |
-| spatiotemporal | Contains spatiotemporal data processing, and models |
+| data | Contains code for fetching and processing data |
+| models | Contains code for multivariate and spatiotemporal models |
 
 ## Citation
 If you use this code for your research, please cite our paper:
