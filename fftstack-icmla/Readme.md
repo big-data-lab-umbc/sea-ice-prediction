@@ -14,7 +14,7 @@ This repository is organized by:
 | models | Contains code for multivariate and spatiotemporal models |
 
 ## Dependencies
-Install the following modules with `pip install [MODULE_NAME]`
+Install the following modules with `pip install [MODULE_NAME]`:
 - numpy
 - pandas
 - sklearn
