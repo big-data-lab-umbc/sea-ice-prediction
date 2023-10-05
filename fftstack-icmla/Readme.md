@@ -7,10 +7,11 @@ Arctic sea ice plays integral roles in both polar and global environmental syste
 The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre-print can be provided upon request.
 
 ## Code
-| Folder |  Description |
+This repository is organized by:
+| Folder | Description |
 | - | - |
-| Preprocessing | Contains code for loading daily, monthly, and yearly version of datasets, in addition to the datasets themselves |
-| Models | Contains code for multivariate and spatiotemporal study models, and integrated cross-study models |
+| multivariate | Contains multivariate data, data processing, and models |
+| spatiotemporal | Contains spatiotemporal data processing, and models |
 
 ## Citation
 If you use this code for your research, please cite our paper:
