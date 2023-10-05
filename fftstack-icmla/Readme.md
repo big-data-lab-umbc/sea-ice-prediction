@@ -13,6 +13,18 @@ This repository is organized by:
 | data | Contains code for fetching and processing data |
 | models | Contains code for multivariate and spatiotemporal models |
 
+## Dependencies
+The following modules are required:
+- numpy
+- pandas
+- sklearn
+- matplotlib
+- skforecast
+- scikit-optimize
+- tensorflow
+- keras
+- attention
+
 ## Citation
 If you use this code for your research, please cite our paper:
 `Pending update`
