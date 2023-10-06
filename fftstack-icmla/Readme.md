@@ -7,23 +7,12 @@ Arctic sea ice plays integral roles in both polar and global environmental syste
 The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre-print can be provided upon request.
 
 ## Code
-This repository is organized by:
-| Folder | Description |
-| - | - |
-| data | Contains code for fetching and processing data |
-| models | Contains code for multivariate and spatiotemporal models |
-
-## Dependencies
-Install the following modules with `pip install [MODULE_NAME]`:
-- numpy
-- pandas
-- sklearn
-- matplotlib
-- skforecast
-- scikit-optimize
-- tensorflow
-- keras
-- attention
+1. Install required dependencies with `%pip install -r requirements.txt`
+2. Navigate repository:
+  | Folder | Description |
+  | - | - |
+  | multivariate | Contains code for fetching and processing data |
+  | spatiotemporal | Contains code for multivariate and spatiotemporal models |
 
 ## Citation
 If you use this code for your research, please cite our paper:
