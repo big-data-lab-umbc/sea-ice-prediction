@@ -8,8 +8,15 @@ The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre
 
 ## Code
 1. Install required dependencies with `%pip install -r requirements.txt`
-2. Navigate repository by architecture type
-    - Testing
+2. Navigate repository by model type:
+| Folder | Description |
+| - | - |
+| multivariate | Load/process multivariate data, train multivariate models |
+| spatiotemporal | Load/process spatiotemporal data, train spatiotemporal model |
+| transformers | Contains FFTStack and conditional linear detrending code for use by above models |
+
+**Note:** The file structure is not static; new folders/files may be generated as code is run.  
+
 
 ## Citation
 If you use this code for your research, please cite our paper:
