@@ -7,7 +7,7 @@ Arctic sea ice plays integral roles in both polar and global environmental syste
 The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre-print can be provided upon request.
 
 ## Code
-1. Install required dependencies with `%pip install -r requirements.txt`
+1. Install required dependencies with `pip install -r requirements.txt`
 2. Navigate repository by model type:
 
 | Folder | Description |
