@@ -8,8 +8,8 @@ The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre
 
 ## Code
 1. Install required dependencies with `%pip install -r requirements.txt`
-2. This repository is organized by model type:
-  a. Testing 
+2. Navigate repository by architecture type
+    - Testing
 
 ## Citation
 If you use this code for your research, please cite our paper:
