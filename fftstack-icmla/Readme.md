@@ -11,7 +11,7 @@ The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre
 2. Navigate repository by model type:
 
 | Folder | Description |
-| - | - |
+| ------- | ---------- |
 | multivariate | Load/process multivariate data, train multivariate models |
 | spatiotemporal | Load/process spatiotemporal data, train spatiotemporal model |
 | transformers | Contains FFTStack and conditional linear detrending code for use by above models |
