@@ -8,11 +8,8 @@ The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre
 
 ## Code
 1. Install required dependencies with `%pip install -r requirements.txt`
-2. Navigate repository:
-  | Folder | Description |
-  | - | - |
-  | multivariate | Contains code for fetching and processing data |
-  | spatiotemporal | Contains code for multivariate and spatiotemporal models |
+2. This repository is organized by model type:
+  a. Testing 
 
 ## Citation
 If you use this code for your research, please cite our paper:
