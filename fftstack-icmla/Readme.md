@@ -14,7 +14,7 @@ The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre
 | ------- | ---------- |
 | multivariate | Load/process multivariate data, train multivariate models |
 | spatiotemporal | Load/process spatiotemporal data, train spatiotemporal model |
-| transformers | Contains code to detrend/de-cycle data with FFTstack and linear detrending |
+| transformers | Contains FFTstack and linear detrending implementations |
 
 **Note:** The file structure is not static; new folders/files may be generated as code is run.  
 
