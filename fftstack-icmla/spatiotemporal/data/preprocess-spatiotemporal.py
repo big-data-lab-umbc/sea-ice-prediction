@@ -4,7 +4,7 @@ from numpy import savetxt
 import os
 import pandas as pd
 
-def openImage(path):
+def open_image(path):
     try: 
         return Image.open(path) 
     except IOError:
@@ -24,7 +24,7 @@ build_directory(csv_dir)
 
 for file in os.listdir(img_dir):
     img_file_name = img_dir + file
-    cur_img = openImage(img_file_name).convert('1')
+    cur_img = open_image(img_file_name).convert('1')
     cur_img.save(img_file_name)
     cur_img_array = np.asarray(cur_img).astype(int)
     csv_file_name = csv_dir + file[0:len(file)-4] + ".csv"
