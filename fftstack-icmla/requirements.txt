@@ -1,0 +1,11 @@
+attention==4.1
+keras==2.10.0
+matplotlib==3.5.2
+numpy==1.23.5
+pandas==1.4.2
+Pillow==10.0.1
+scikit_learn==1.1.1
+scipy==1.11.3
+skforecast==0.6.0
+tensorflow==2.10.1
+tensorflow_intel==2.11.0
