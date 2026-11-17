@@ -12,9 +12,15 @@ In this repository, we have following folders:
 1. Data  
 2. Models: This repository contains notebooks for following models.
    
-__Probabilistic Models__: a) Hidden Markov Model (HMM) Model (HMM_prediction.ipynb), b) General Regression Neural Network (GRNN) Model (grnn.ipynb), c) Gaussian Process Regression (GPR) Model (GPR.ipynb), d) Bayesian Linear Regression (BLR) Model (BLR.ipynb). 
+__Probabilistic Models__: 
+- Hidden Markov Model (HMM) Model
+- General Regression Neural Network (GRNN) Model
+- Gaussian Process Regression (GPR) Model
+- Bayesian Linear Regression (BLR) Model. 
 
-__Baseline Models__: a) [LSTM Model](https://github.com/big-data-lab-umbc/sea-ice-prediction/blob/main/climate-change-ai-workshop/models/Polar_Sea_Ice_Prediction_mLSTM.ipynb) (re-used from another project), b) MLR Model (MLR.ipynb)
+__Baseline Models__:
+- [LSTM Model](https://github.com/big-data-lab-umbc/sea-ice-prediction/blob/main/climate-change-ai-workshop/models/Polar_Sea_Ice_Prediction_mLSTM.ipynb) (re-used from another project)
+- Multiple Linear Regression (MLR) Model
 
 ## Citation
 If you use this code for your research, please cite our [paper](https://drive.google.com/file/d/1oXotdE8TDDAu0jzs0VrEb6R5pr4xE8yt/view?usp=sharing):
