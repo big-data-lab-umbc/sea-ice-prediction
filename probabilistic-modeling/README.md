@@ -10,7 +10,15 @@ The paper has been accepted in the proceedings of [IEEE IGARSS 2022](https://www
 ## Code
 In this repository, we have following folders:
 1. Data  
-2. Models 
+2. Models: This repository contains notebooks for following models:
+### Probabilistic Models
+1. HMM Model (HMM_prediction.ipynb)
+2. GRNN Model (grnn.ipynb)
+3. GPR Model (GPR.ipynb)
+4. BLR Model (BLR.ipynb)
+### Baseline Models
+1. [LSTM Model](https://github.com/big-data-lab-umbc/sea-ice-prediction/blob/main/climate-change-ai-workshop/models/Polar_Sea_Ice_Prediction_mLSTM.ipynb) (re-used from another project)
+2. MLR Model (MLR.ipynb)
 
 ## Citation
 If you use this code for your research, please cite our [paper](https://drive.google.com/file/d/1oXotdE8TDDAu0jzs0VrEb6R5pr4xE8yt/view?usp=sharing):
